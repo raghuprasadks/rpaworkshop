@@ -1,0 +1,7 @@
+https://www.youtube.com/watch?v=oJFfUcqCLO8
+https://rpachallenge.com/
+uipath.com
+
+So just use Manage Packages and add UiPath.UiAutomation.Activities to the project dependencies
+
+https://acme-test.uipath.com/login
