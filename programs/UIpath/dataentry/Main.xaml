@@ -104,7 +104,7 @@
       <x:Boolean x:Key="ShouldCollapseAll">False</x:Boolean>
     </scg:Dictionary>
   </sap:WorkflowViewStateService.ViewState>
-  <Sequence DisplayName="Main Sequence" sap:VirtualizedContainerService.HintSize="729.6000000000001,3464" sap2010:WorkflowViewState.IdRef="Sequence_5">
+  <Sequence DisplayName="Main Sequence" sap:VirtualizedContainerService.HintSize="1182.4,3464" sap2010:WorkflowViewState.IdRef="Sequence_5">
     <sap:WorkflowViewStateService.ViewState>
       <scg:Dictionary x:TypeArguments="x:String, x:Object">
         <x:Boolean x:Key="IsExpanded">True</x:Boolean>
@@ -122,7 +122,7 @@
                 <x:Boolean x:Key="IsExpanded">True</x:Boolean>
               </scg:Dictionary>
             </sap:WorkflowViewStateService.ViewState>
-            <ueab:ExcelApplicationCard Password="{x:Null}" ReadFormatting="{x:Null}" SensitivityLabel="{x:Null}" DisplayName="Use Excel File" sap:VirtualizedContainerService.HintSize="617.6,3271.2" sap2010:WorkflowViewState.IdRef="ExcelApplicationCard_1" ResizeWindow="None" SensitivityOperation="None" WorkbookPath="D:\kaushalya\consultancy\newhorizonenggcollege\2024\kasturinagarpuc\workorders\rpa\programs\UIpath\UIpath\data\challenge.xlsx">
+            <ueab:ExcelApplicationCard Password="{x:Null}" ReadFormatting="{x:Null}" SensitivityLabel="{x:Null}" DisplayName="Use Excel File" sap:VirtualizedContainerService.HintSize="617.6,3271.2" sap2010:WorkflowViewState.IdRef="ExcelApplicationCard_1" ResizeWindow="None" SensitivityOperation="None" WorkbookPath="D:\kaushalya\consultancy\newhorizonenggcollege\2024\kasturinagarpuc\workorders\rpa\programs\UIpath\data\challenge.xlsx">
               <ueab:ExcelApplicationCard.Body>
                 <ActivityAction x:TypeArguments="ue:IWorkbookQuickHandle">
                   <ActivityAction.Argument>
@@ -182,7 +182,7 @@
                                         </uix:VerifyExecutionTypeIntoOptions>
                                       </uix:NTypeInto.VerifyOptions>
                                     </uix:NTypeInto>
-                                    <uix:NTypeInto ActivateBefore="True" ClickBeforeMode="Single" DisplayName="Type Into ''Last Name''" EmptyFieldMode="SingleLine" HealingAgentBehavior="SameAsCard" sap:VirtualizedContainerService.HintSize="416,286.4" sap2010:WorkflowViewState.IdRef="NTypeInto_2" ScopeIdentifier="a5a038d3-4ecc-4168-a4c0-269ae9cb7cf8" Text="[CurrentRow(&quot;Last Name &quot;).ToString]" Version="V4">
+                                    <uix:NTypeInto ActivateBefore="True" ClickBeforeMode="Single" DisplayName="Type Into ''Last Name''" EmptyFieldMode="SingleLine" HealingAgentBehavior="SameAsCard" sap:VirtualizedContainerService.HintSize="416,286.4" sap2010:WorkflowViewState.IdRef="NTypeInto_2" ScopeIdentifier="a5a038d3-4ecc-4168-a4c0-269ae9cb7cf8" Text="[CurrentRow(&quot;Last Name&quot;).ToString]" Version="V4">
                                       <uix:NTypeInto.Target>
                                         <uix:TargetAnchorable BrowserURL="rpachallenge.com" CVScreenId="db057d21-b594-4ecf-b96c-5d8a974a2ab5" CvTextArea="1026, 527, 42, 16" CvTextArgument="Email" CvType="Text" DesignTimeRectangle="1018, 505, 371, 57" DesignTimeScaleFactor="1.25" ElementType="InputBox" FullSelectorArgument="&lt;webctrl id='DrkhQ' tag='INPUT' /&gt;" FuzzySelectorArgument="&lt;webctrl id='DrkhQ' tag='INPUT' type='' class='ng-untouched ng-pristine ng-invalid' aaname='' /&gt;" Guid="3eaeac1d-99c1-4909-a087-0f7af9a2538d" InformativeScreenshot="0e2646180594a05b160d781a469641d4.png" IsResponsive="True" ScopeSelectorArgument="&lt;html app='chrome.exe' title='Rpa Challenge' /&gt;" SearchSteps="FuzzySelector, CV" Version="V5" Visibility="Interactive">
                                           <uix:TargetAnchorable.Anchors>

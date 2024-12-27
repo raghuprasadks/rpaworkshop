@@ -1,0 +1,51 @@
+Hands-on
+Visit - https://www.uipath.com/
+ Click – Try UI Path Free button
+ Click - Get Automation Cloud for community
+Create an Account
+Sign In
+
+Hands-on sessions
+
+1. create a folder uipathhandson
+2. Open UiPath studio
+3. Click on Process
+4. Name - RPA_Practice_HelloWorld_1
+Description -
+Path -
+Language - VB
+
+UiPath.UiAutomation.Activities
+UiPath Browser Automation 24.10
+
+Assignment
+
+Rediff.com
+create account
+https://register.rediff.com/register/register.php?FormName=user_details
+
+
+Process RPA_PopulateData_4 use challenge.xls and complete following activities
+
+Activities
+
+1. Excel Process Scope
+2. Use Excel File
+3. For Each Excel Row
+4. App Web Recorder
+5. For each recorded field
+CurrentRow.ByField("First Name").ToString
+
+https://acme-test.uipath.com/
+
+https://kaushalya.tech/
+
+Extract data from 
+https://olympics.com/en/paris-2024/medals
+
+and write to olympics2024.xls
+
+
+
+
+
